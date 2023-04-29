@@ -1,4 +1,14 @@
 ### Hi there 👋
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/miguellealperez"><img src="https://github.com/miguellealperez/miguellealperez/blob/dev/github-contribution-grid-snake.svg"></a>
+</p>
 
 <!--
 **miguellealperez/miguellealperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
